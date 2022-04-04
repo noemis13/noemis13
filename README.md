@@ -7,7 +7,7 @@ I am Noemi, a young professional
 
 :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/noemi-scherer-1b910414a)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=noemis13&theme=merko&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=noemis13&theme=tokyonight&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noemis13)](https://github.com/noemis13?tab=repositories)
