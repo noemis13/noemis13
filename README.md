@@ -10,6 +10,10 @@ I am Noemi, a young professional
 ![Github stats](https://github-readme-stats.vercel.app/api?username=noemis13&theme=merko&show_icons=true)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **noemis13/noemis13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
