@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-I am Noemi, a young professional 
+I am Noemi, a young professional
 
 - Working as Software Engineer at Rabobank Europe
 - With a Bachelor's degree in Computer Science - UTFPR
 
-:point_right: [Linkedin](https://www.linkedin.com/in/noemi-scherer-1b910414a)
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/noemi-scherer-1b910414a)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=noemis13&theme=highcontrast&show_icons=true&count_private=true)
 
 
 <!--
