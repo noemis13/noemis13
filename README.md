@@ -5,7 +5,7 @@ I am Noemi, a young professional
 - Working as Software Engineer at Rabobank Europe
 - With a Bachelor's degree in Computer Science - UTFPR
 
-:point_right: ![Linkedin](https://www.linkedin.com/in/noemi-scherer-1b910414a/)
+:point_right: [Linkedin](https://www.linkedin.com/in/noemi-scherer-1b910414a)
 
 
 <!--
