@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Noemi, a young professional 
+
+- Working as Software Engineer at Rabobank Europe
+- With a Bachelor's degree in Computer Science - UTFPR
+
+:point_right: https://www.linkedin.com/in/noemi-scherer-1b910414a/ 
+
+
 <!--
 **noemis13/noemis13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
