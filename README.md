@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am Noemi, a young professional
 
 
 :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/noemi-scherer-1b910414a)
