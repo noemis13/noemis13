@@ -2,8 +2,6 @@
 
 
 
-:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/noemi-scherer-1b910414a)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=noemis13&theme=tokyonight&show_icons=true)
 
 
